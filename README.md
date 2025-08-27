@@ -10,6 +10,9 @@ I've added a stretch effect just to add a more natural feel to the object's move
 'wrapping' around the whole object.
 
 Hopefully, it's generic enough for you to be able to use it somewhere in your own projects.
+Have fun experimenting with this technique, but please give credit if used!
+
+Simply use this line in your docs: `Sphere Code by Stormwrecker`
 
 
 ## Notes
@@ -18,7 +21,3 @@ When blitting an object, make sure that you blit to `display` and NOT `screen`. 
 everything gets drawn on. Then the display is scaled to fit the window, perfect for pixel artists.
 
 Using Pygame (not -CE) will result in your sphere object having a red background as I set color-key to red for the image.
-
-Have fun experimenting with this technique, but please give credit if used!
-
-Simply use this line in your docs: `Sphere Code by Stormwrecker`
