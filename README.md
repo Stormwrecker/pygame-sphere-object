@@ -15,10 +15,7 @@ Have fun experimenting with this technique, but please give credit if used!
 Simply use this line in your docs: `Sphere Code by Stormwrecker`
 
 A not-so-amazing screenshot of the Sphere object in action:
-
-![Recording 2026-02-12 134652](https://github.com/user-attachments/assets/76fe92db-78a3-4412-b02c-f883b0bdd4a5)
-
-
+![Recording 2026-02-12 135025](https://github.com/user-attachments/assets/cde25e77-3205-4bf6-b0e4-fe6b5ebde4f6)
 
 
 ## Notes
