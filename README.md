@@ -14,9 +14,11 @@ Have fun experimenting with this technique, but please give credit if used!
 
 Simply use this line in your docs: `Sphere Code by Stormwrecker`
 
-A not-amazing screenshot of the Sphere object in action:
+A not-so-amazing screenshot of the Sphere object in action:
 
-<img width="798" height="479" alt="image" src="https://github.com/user-attachments/assets/b3867616-147a-41c5-bb7d-989070a3c5c3" />
+![Recording 2026-02-12 134652](https://github.com/user-attachments/assets/76fe92db-78a3-4412-b02c-f883b0bdd4a5)
+
+
 
 
 ## Notes
